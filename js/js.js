@@ -1,0 +1,3 @@
+function mialerta() {  
+    alert("¡Hola!");
+} 
